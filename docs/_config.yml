@@ -29,7 +29,7 @@ twitter_username: ltf_01
 github_username:  cmoserj
 
 # Build settings
-theme: flexible
+remote_theme: artemsheludko/flexible-jekyll
 plugins:
   - jekyll-feed
 
