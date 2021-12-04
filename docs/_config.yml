@@ -29,7 +29,7 @@ twitter_username: ltf_01
 github_username:  cmoserj
 
 # Build settings
-theme: minima
+theme: flexible
 plugins:
   - jekyll-feed
 
